@@ -1,6 +1,3 @@
 AFA18SCM40P
-
-<<<<<<< HEAD
 AFA18SCM89B
-=======
->>>>>>> 6b4ee20ff16eec29adbd3e194165a5e289730b6c
+
